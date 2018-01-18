@@ -12,7 +12,7 @@
   firebase.initializeApp(config);
 
    //get elements
-// get all elements
+// get all elements to here
 
    const preObject = document.getElementById('object');
    const ulList1 = document.getElementById('list1');
